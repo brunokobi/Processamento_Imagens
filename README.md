@@ -1,4 +1,4 @@
-# 🖼️ Repositório de Exercícios de Processamento Digital de Imagens
+# 🖼️ Processamento Digital de Imagens
 
 ## Contato do Professor
 👨‍🏫 Prof. Dr. Thiago Meireles Paixão  
