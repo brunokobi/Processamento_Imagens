@@ -10,3 +10,4 @@ Bem-vindo ao repositório de exercícios da disciplina de Processamento Digital 
 Neste curso, exploraremos os fundamentos do processamento digital de imagens, incluindo aprimoramento de imagens, restauração, segmentação e muito mais. 🌟
 
 Se precisar de mais alguma coisa, sinta-se à vontade para entrar em contato com o professor por e-mail. Aproveite os recursos disponíveis neste repositório para aprimorar suas habilidades em processamento digital de imagens! 🚀
+
