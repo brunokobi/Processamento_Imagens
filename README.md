@@ -3,6 +3,7 @@
 ## Contato do Professor
 👨‍🏫 Prof. Dr. Thiago Meireles Paixão  
 📧 Email: [thiago.paixao@ifes.edu.br](mailto:thiago.paixao@ifes.edu.br)
+🌐 Github: [thiagopx/pdi](https://github.com/thiagopx/pdi)
 
 Bem-vindo ao repositório de exercícios da disciplina de Processamento Digital de Imagens! Este repositório tem como objetivo armazenar os exercícios relacionados ao conteúdo abordado na disciplina de Processamento Digital de Imagens oferecida pelo Instituto Federal do Espírito Santo (IFES, PPComp). Aqui você encontrará Jupyter notebooks, scripts e outros materiais úteis para sua prática e aprendizado. 📚
 
